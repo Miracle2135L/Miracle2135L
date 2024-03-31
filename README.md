@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Miracle2135L
+- 👀 I’m interested in games
+- 🌱 I’m currently learning c++
